@@ -1,0 +1,8 @@
+MoBiLSTM_model.h5
+mock_test_video.mp4
+output_predicted_test_video.mp4
+.ipynb_checkpoints/
+features.npy
+labels.npy
+video_files_paths.npy
+test_videos/
